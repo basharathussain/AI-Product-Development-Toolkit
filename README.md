@@ -2,7 +2,7 @@
 
 Welcome to my personal collection of product development prompt templates! This repository serves as a central place to store, organize, and share effective prompts for various AI models, designed to guide users from idea to MVP.
 
-## About This Repository
+## About This Repository 
 
 As I use different AI tools I often find myself designing specific prompts to get desired outputs. This repository is my way of:
 
